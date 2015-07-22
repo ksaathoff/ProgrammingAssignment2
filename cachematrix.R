@@ -6,7 +6,7 @@
 
 ## This function acutally creates a list containing several functions 
 ## that do the following: Sets the value of a matrix, Gets the value of 
-## a matrix, Sets the value of the inverse matris, and gets the value
+## a matrix, Sets the value of the inverse matrix, and gets the value
 ## of the inverse matrix.
 
 makeCacheMatrix <- function(x = matrix()) {
